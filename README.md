@@ -1,4 +1,4 @@
-# NeoVim Config
+# Neovim Config
 
 Personal Neovim configuration. Lua-based, managed by [lazy.nvim](https://github.com/folke/lazy.nvim).
 
